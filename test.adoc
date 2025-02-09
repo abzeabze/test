@@ -1,4 +1,5 @@
-link:bla"onmouseover="alert(1)[KLIK HIER]
+link:asd&colon;bla"onmouseover="alert(1)[KLIK HIER]
+link:asd:bla"onmouseover="alert(1)[KLIK HIER2]
   Results in: <a onmouseover="alert(1)" href="bla">KLIK HIER</a>
 image:https://gitlab-a.ing.net/fake.png[Alt text" onerror="alert(7)]
   Results in: <img onerror="alert(7)" alt="Alt text" src="https://gitlab-a.ing.net/fake.png">
