@@ -1,3 +1,7 @@
+++++
+<iframe src="..."></iframe>
+++++
+
 link:asd&colon;bla"onmouseover="alert(1)[KLIK HIER]
 link:asd&#x3a bla"onmouseover="alert(1)[KLIK HIER2]
   Results in: <a onmouseover="alert(1)" href="bla">KLIK HIER</a>
