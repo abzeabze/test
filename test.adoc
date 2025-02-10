@@ -1,3 +1,5 @@
+include::test.svG[tag=definition]
+
 {set:sourcedir:src/main/java}
 
 = My Document
