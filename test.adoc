@@ -1,1 +1,9 @@
-image::tiger&colon;&Colon .png[Tiger,200,200,float="right",align="center"]
+{set:sourcedir:src/main/java}
+
+= My Document
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: ./styles
+:scriptsdir: ./js123
+
+asd
