@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg">  
   <defs>  
     <g id="main">  
-      <animate values="http://safe-url/?;javascript:alert(1);C"> 
+      <animate values="http://safe-url/?;javascript:alert(1);C"></animate> 
     </g>  
   </defs>  
 </svg> 
